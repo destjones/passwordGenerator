@@ -6,9 +6,8 @@
 
   <p align="center">
     Here's the strong password you didn't know you needed.
-    </p>
-
-
+    <a href="#https://sagedest.github.io/passwordGenerator/">Deployment</a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -38,8 +37,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Password Generator Screen Shot][product-screenshot]](https://example.com)
+<img width="869" alt="Screen Shot 2021-05-27 at 12 22 07 AM" src="https://user-images.githubusercontent.com/74513438/119782967-a13b2a80-be81-11eb-9657-ee2335059e0b.png">
 
 A simple password generator used to create random and strong passwords following the "strong" password criteria.
 * Upper Case Letters
