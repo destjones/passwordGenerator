@@ -28,11 +28,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -43,16 +41,20 @@
 
 [![Password Generator Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+A simple password generator used to create random and strong passwords following the "strong" password criteria.
+* Upper Case Letters
+* Lower Case Letters
+* Numbers
+* Symbols
+* a Length of 8-128
+
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [html](html)
+* [css](css)
+* [javascript](javascript)
 
 
 
@@ -62,39 +64,22 @@ Here's a blank template to get started:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Understand how to open the deployed website into the browser.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/sagedest/passwordGenerator.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Open the index.html file
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+The usage of this app is solely to create strong passwords you can use and save for any media content that requires you to use one.
 
 
 
@@ -121,18 +106,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/sagedest/passwordGenerator](https://github.com/sagedest/passwordGenerator)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
